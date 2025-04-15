@@ -1,7 +1,7 @@
 [tool.willow_mod]
 name = "LoadZoneRandomizer"
 version = "1.0.0"
-description = "Scales loot to match player/enemy level."
+description = "Shuffles all doors to have a random matching pair, works like Elden Ring's Fog Gate Randomizer"
 author = "Sebb"
 game = ["BL2"]
 coop_support = "ClientSide"
