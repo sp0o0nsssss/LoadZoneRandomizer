@@ -1,0 +1,239 @@
+{
+    "Ash_P": [
+        "WillowCoopPlayerStart_0",
+        "WillowCoopPlayerStart_1"
+    ],
+    "BackBUrner_Mission_Main": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "BanditSlaughter_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Boss_Cliffs_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Boss_Volcano_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "CastleExterior_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "CastleKeep_P": [
+        "WillowCoopPlayerStart_0",
+        "WillowCoopPlayerStart_1",
+        "WillowCoopPlayerStart_2",
+        "WillowCoopPlayerStart_3"
+    ],
+    "Cove_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "CraterLake_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "CreatureSlaughter_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Dark_Forest_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Dead_Forest_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Distillery_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Docks_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "DungeonRaid_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Dungeon_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Easter_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "FinalBossAscent_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Fridge_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Fyrestone_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "GaiusSanctuary_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Glacial_P": [
+        "WillowCoopPlayerStart_1"
+    ],
+    "Grass_Cliffs_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Grass_Lynchwood_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Hunger_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "HypInterlude_P": [
+        "WillowCoopPlayerStart_1"
+    ],
+    "HyperionCity_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Ice_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Interlude_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Iris_DL1_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Iris_DL1_TAS_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Iris_DL2_Interior_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Iris_DL2_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Iris_DL3_P": [
+        "WillowCoopPlayerStart_1"
+    ],
+    "Iris_Hub2_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Iris_Hub_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Iris_Moxxi_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Loader": [
+        "WillowCoopPlayerStart_1",
+        "WillowCoopPlayerStart_2",
+        "WillowCoopPlayerStart_3",
+        "WillowCoopPlayerStart_4"
+    ],
+    "Luckys_P": [
+        "WillowCoopPlayerStart_1"
+    ],
+    "Mines_Mission": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "OldDust_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Orchid_Caves_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Orchid_OasisTown_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Orchid_Refinery_P": [
+        "WillowCoopPlayerStart_1"
+    ],
+    "Orchid_SaltFlats_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Orchid_ShipGraveyard_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Orchid_Spire_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Orchid_WormBelly_P": [
+        "WillowCoopPlayerStart_4"
+    ],
+    "Outwash_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "PandoraPark_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Pumpkin_Patch_P": [
+        "WillowCoopPlayerStart_1"
+    ],
+    "ResearchCenter_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "RobotSlaughter_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Sage_HyperionShip_Dynamic": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Sage_PowerStation_P": [
+        "WillowCoopPlayerStart_1"
+    ],
+    "Sage_RockForest_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Sage_Underground_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "SanctIntro_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "SanctuaryAir_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Sanctuary_Hole_P": [
+        "WillowCoopPlayerStart_2"
+    ],
+    "Sanctuary_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "SouthernShelf_P": [
+        "WillowCoopPlayerStart_1"
+    ],
+    "SouthpawFactory_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "TempleSlaughter_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "TestingZone_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "ThresherRaid_P": [
+        "WillowCoopPlayerStart_1"
+    ],
+    "TundraTrain_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "VOGChamber_P": [
+        "WillowCoopPlayerStart_0",
+        "WillowCoopPlayerStart_1",
+        "WillowCoopPlayerStart_2"
+    ],
+    "Village_P": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "Xmas_P": [
+        "WillowCoopPlayerStart_1"
+    ],
+    "caverns_p": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "dam_p": [
+        "WillowCoopPlayerStart_1"
+    ],
+    "damtop_p": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "icecanyon_p": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "menumap": [
+        "WillowCoopPlayerStart_0"
+    ],
+    "tundraexpress_p": [
+        "WillowCoopPlayerStart_0"
+    ]
+}
